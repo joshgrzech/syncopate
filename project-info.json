@@ -1,0 +1,18 @@
+{
+  "name": "Syncopate",
+  "description": "Version control for music producers.",
+  "technologies": ["NextJs", "JavaScript", "Git"],
+  "platforms": ["Web"],
+  "features": {
+    "Version Control for Audio Production": "At the heart of Syncopate is a robust version control system. This feature allows producers to track changes, revert to previous versions, and view the history of their Ableton project files. It's similar to git, but optimized for the complexities of audio files and project data.",
+    "Seamless Collaboration": "Syncopate enables seamless collaboration among producers and audio engineers. Users can share project files, merge changes from different collaborators, and manage contributions with ease. It's like GitHub, but for music production, facilitating real-time collaboration and feedback.",
+    "Intuitive Interface": "The app boasts an intuitive, user-friendly interface that integrates smoothly with Ableton Live. Producers can access version histories, commit changes, and pull updates directly from within the Ableton environment, streamlining their workflow.",
+    "Enhanced Workflow Management": "Syncopate offers workflow management tools, including branching and merging capabilities, allowing producers to experiment with different ideas without losing the original version of their work. This feature is invaluable for exploring creative avenues in music production.",
+    "Safe and Secure": "Keeping in mind the importance of intellectual property in the music industry, Syncopate provides robust security features. All data is encrypted, and access controls ensure that only authorized collaborators can view or modify project files.",
+    "Cloud-Based Storage and Accessibility": "With cloud-based storage, Syncopate ensures that project files are accessible from anywhere, at any time. This feature is particularly beneficial for producers who are constantly on the move or work with international collaborators.",
+    "Customizable Notifications and Alerts": "Users receive customizable notifications for any changes or updates made to the project files, keeping everyone in the loop and ensuring that all collaborators are on the same page."
+  },
+  "homepage": "https://syncopate.joshgrzech.app",
+  "status": "In Development",
+  "currentVersion": "0.1.0"
+}
