@@ -1,8 +1,8 @@
 {
   "name": "Syncopate",
   "description": "Version control for music producers.",
-  "technologies": ["NextJs", "JavaScript", "Git"],
-  "platforms": ["Web"],
+  "technologies": ["nextjs", "javascript", "git"],
+  "platforms": ["web"],
   "features": {
     "Version Control for Audio Production": "At the heart of Syncopate is a robust version control system. This feature allows producers to track changes, revert to previous versions, and view the history of their Ableton project files. It's similar to git, but optimized for the complexities of audio files and project data.",
     "Seamless Collaboration": "Syncopate enables seamless collaboration among producers and audio engineers. Users can share project files, merge changes from different collaborators, and manage contributions with ease. It's like GitHub, but for music production, facilitating real-time collaboration and feedback.",
